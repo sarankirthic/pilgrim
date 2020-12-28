@@ -12,8 +12,12 @@ eg - The ships were locked in the harbour, so the terrorists were not able to es
 
 > verb
 
-1. Keep in one's mind, especially secretly. eg - 
+1. Keep in one's mind, especially secretly.
 2. Shelter or hide (a criminal or wanted person)
 
-## Groped
+eg - 1 - The night at the harbour was soo silent that I started to harbour doubts that something was about to unfold, and suddenly the sky burst into a million colours of joy.
+eg - 2 - The hand harboured the 
+
+## Grope
+
 
