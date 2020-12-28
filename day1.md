@@ -14,3 +14,6 @@ eg - The ships were locked in the harbour, so the terrorists were not able to es
 
 1. Keep in one's mind, especially secretly. eg - 
 2. Shelter or hide (a criminal or wanted person)
+
+## Groped
+
