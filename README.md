@@ -1,5 +1,4 @@
-# grePrep
->## New words everyday for a better tomorrow
+# grePrep - January 2021
 
 [Day 1][day1] - Ambiguity, Harbour, Groped
 
@@ -33,9 +32,9 @@
 
 [Day 16][day16] - Scintillating, Plotz, Paraselene 
 
-[Day 17][day17] - 
+[Day 17][day17] - Absurd, Amity, Prudent
 
-[Day 18][day18] - 
+[Day 18][day18] - Dereliction, Oligarchy
 
 [Day 19][day19] - 
 
