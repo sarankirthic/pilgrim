@@ -42,11 +42,11 @@
 
 [Day 21][day21] - Debase, Fetid, Iniquity 
 
-[Day 22][day22] - Wavering, Intricacy, 
+[Day 22][day22] - Wavering, Intricacy, Semblance 
 
-[Day 23][day23] - 
+[Day 23][day23] - Parley, Divested, Suss
 
-[Day 24][day24] - 
+[Day 24][day24] - Hash, Snooping
 
 [Day 25][day25] - 
 
