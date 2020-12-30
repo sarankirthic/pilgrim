@@ -52,15 +52,15 @@
 
 [Day 26][day26] - Loom, Kismet, Debacle
 
-[Day 27][day27] - Concede, Shuddering 
+[Day 27][day27] - Concede, Shuddering, deranged
 
-[Day 28][day28] - 
+[Day 28][day28] - Sustenance, Linger, Dossier
 
-[Day 29][day29] - 
+[Day 29][day29] - Banal, Affiliate, putrefy 
 
-[Day 30][day30] - 
+[Day 30][day30] - Malice, Contingency, receptive
 
-[Day 31][day31] - 
+[Day 31][day31] - Dissociative, Strobbing, Slew
 
 [day1]: Day1/README.md
 [day2]: Day2/README.md
