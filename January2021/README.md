@@ -46,13 +46,13 @@
 
 [Day 23][day23] - Parley, Divested, Suss
 
-[Day 24][day24] - Hash, Snooping
+[Day 24][day24] - Hash, Snooping, Imperial
 
-[Day 25][day25] - 
+[Day 25][day25] - Drubbing, Snitch, Tarot
 
-[Day 26][day26] - 
+[Day 26][day26] - Loom, Kismet, Debacle
 
-[Day 27][day27] - 
+[Day 27][day27] - Concede, Shuddering 
 
 [Day 28][day28] - 
 
