@@ -1,4 +1,4 @@
-# grePrep - January 2021
+# grePrep - January 2021 A new beginning 
 
 [Day 1][day1] - Ambiguity, Harbour, Groped
 
@@ -34,16 +34,33 @@
 
 [Day 17][day17] - Absurd, Amity, Prudent
 
-[Day 18][day18] - Dereliction, Oligarchy
+[Day 18][day18] - Dereliction, Oligarchy, Undying
 
-[Day 19][day19] - 
+[Day 19][day19] - Snuggery, Cortege, Cordate
 
-[Day 20][day20] - 
+[Day 20][day20] - Chastity, Abasement, Effete
 
-[Day 21][day21] - 
+[Day 21][day21] - Debase, Fetid, Iniquity 
 
-[Day 22][day22] - 
+[Day 22][day22] - Wavering, Intricacy, 
 
+[Day 23][day23] - 
+
+[Day 24][day24] - 
+
+[Day 25][day25] - 
+
+[Day 26][day26] - 
+
+[Day 27][day27] - 
+
+[Day 28][day28] - 
+
+[Day 29][day29] - 
+
+[Day 30][day30] - 
+
+[Day 31][day31] - 
 
 [day1]: day1/README.md
 [day2]: day2/README.md
@@ -67,3 +84,13 @@
 [day20]: day20/README.md
 [day21]: day21/README.md
 [day22]: day22/README.md
+[day23]: day23/README.md
+[day24]: day24/README.md
+[day25]: day25/README.md
+[day26]: day26/README.md
+[day27]: day27/README.md
+[day28]: day28/README.md
+[day29]: day29/README.md
+[day30]: day30/README.md
+[day31]: day31/README.md
+
