@@ -4,11 +4,13 @@
 
 #### I also have some offline copies which I will add soon! Stay tuned.
 
-### 3 words per day
+### 3 words per Day
 
-### for 31 days a month
+### for 31 Days a Month
 
-### 31 X 3 = 93 words per month
+### 31 X 3 = 93 words per Month
+
+### 93 X 12 = 1116 words per Year
 
 ### Just take a look 
 
