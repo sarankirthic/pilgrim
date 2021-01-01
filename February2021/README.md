@@ -1,14 +1,14 @@
 # grePrep - February 2021 A new beginning 
 
-[Day 1][day1] - Perspicacious, 
+[Day 1][day1] - Perspicacious, Astute, Shrewd
 
-[Day 2][day2] - 
+[Day 2][day2] - Debase, Volition, Denigrate
 
-[Day 3][day3] - 
+[Day 3][day3] - Sagcious, Cagey, Canny
 
-[Day 4][day4] - 
+[Day 4][day4] - Sycophantic, Serendipity, Congregate
 
-[Day 5][day5] - 
+[Day 5][day5] - Squalor, Squalid, Expletive
 
 [Day 6][day6] - 
 
