@@ -1,4 +1,5 @@
 # Day 1
+
 ## Ambiguity
 > noun - plural **ambiguities**
 
