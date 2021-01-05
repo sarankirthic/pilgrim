@@ -1,9 +1,5 @@
 # New word for a Better Tomorrow 
 
-#### I watch a lot of movies and there are a lot of new word that i learn. I wanted to know the meaning, thought it would help me for my higher studies, and even better if I share it to the world. In that case I could keep a track of my progress.
-
-#### I also have some offline copies which I will add soon! Stay tuned.
-
 ### 3 words per Day
 
 ### for 31 Days a Month
