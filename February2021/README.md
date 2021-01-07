@@ -10,7 +10,7 @@
 
 [Day 5][day5] - Squalor, Squalid, Expletive
 
-[Day 6][day6] - 
+[Day 6][day6] - Stenographic 
 
 [Day 7][day7] - 
 
