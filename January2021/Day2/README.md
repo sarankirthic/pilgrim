@@ -5,11 +5,11 @@
 Search blindly or uncertainly by feeling with bare hands
 
 ## Stow
-> verb
+> Verb
 
 Pack or store an object carefully and neatly in a particular place
 
 ## Dazed
->Adjective
+> Adjective
 
 Unable to think or react properly, bewildered.
