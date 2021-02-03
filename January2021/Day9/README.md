@@ -1,10 +1,10 @@
 # Day
-##
+## Ghastly
 >
 
-##
+## Bolstered
 >
 
-##
+## Microcosm
 >
 
